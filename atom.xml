@@ -3,11 +3,11 @@
   <title>宁静致远</title>
   
   <subtitle>实用是使用者的通行证，无用是读书者的墓志铭</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://kayson896.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://kayson896.github.io/"/>
   <updated>2021-05-11T09:15:49.316Z</updated>
-  <id>http://example.com/</id>
+  <id>https://kayson896.github.io/</id>
   
   <author>
     <name>Kayson</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/05/11/hello-world/"/>
-    <id>http://example.com/2021/05/11/hello-world/</id>
+    <link href="https://kayson896.github.io/2021/05/11/hello-world/"/>
+    <id>https://kayson896.github.io/2021/05/11/hello-world/</id>
     <published>2021-05-11T09:15:49.316Z</published>
     <updated>2021-05-11T09:15:49.316Z</updated>
     
